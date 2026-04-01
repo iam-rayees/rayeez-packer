@@ -1,0 +1,11 @@
+{
+    "region": "us-east-1",
+    "detail": {
+        "responseElements": {
+            "imageId": "ami-0ec10929233384c7f"
+        },
+        "requestParameters": {
+            "name": "my-packer-ami-name-test"
+        }
+    }
+}
